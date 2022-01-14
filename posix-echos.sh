@@ -1,5 +1,3 @@
-#!/usr/bin/env sh
-
 red="\e[0;91m"
 blue="\e[0;94m"
 green="\e[0;92m"
